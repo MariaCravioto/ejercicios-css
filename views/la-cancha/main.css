@@ -1,0 +1,70 @@
+body{
+  background-color: #5cb85c;
+}
+p.cancha{
+  display: inline-block;
+  background-color: #5cb85c;
+  height: 600px;
+  width: 1320px;
+  border: 5px solid #FFFFFF;
+}
+
+p.porteria1{
+  display: inline-block;
+  position: relative;
+  bottom: 530px;
+  height: 350px;
+  width: 200px;
+  border: 5px solid #FFFFFF;
+}
+
+p.porteria2{
+  display: inline-block;
+  position: relative;
+  bottom: 530px;
+  left: 905px;
+  height: 350px;
+  width: 200px;
+  border: 5px solid #FFFFFF;
+}
+
+#circulo {
+  position: relative;
+  bottom: 900px;
+  left: 520px;
+  height: 300px;
+  width: 300px;
+  border: 5px solid #FFFFFF;
+  border-radius: 100%;
+}
+
+div.punto1 {
+  position: relative;
+  bottom: 900px;
+  left: 1090px;
+  height: 20px;
+  width: 20px;
+  background-color: #FFFFFF;
+  border-radius: 100%;
+}
+
+
+div.punto2 {
+  position: relative;
+  bottom: 1300px;
+  left: 700px;
+  height: 20px;
+  width: 20px;
+  background-color: #FFFFFF;
+  border-radius: 100%;
+   }
+
+div.punto3 {
+  position: relative;
+  bottom: 1255px;
+  left: 195px;
+  height: 20px;
+  width: 20px;
+  background-color: #FFFFFF;
+  border-radius: 100%;
+}

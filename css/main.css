@@ -1,0 +1,29 @@
+body{
+  background-color: #000000;
+}
+
+div.day{
+  color: #FFFFFF;
+}
+
+h1{
+  background-color: inherit;
+  background-image:
+  url("https://image.ibb.co/defc2b/images.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: inline-block;
+  font-family:'Press Start 2P', cursive;
+  color: #FFFFFF;
+  padding-top: 90PX;
+  border: 1px solid #FFFFFF;
+  bottom: 10px;
+  left: 10PX;
+  width: 1300px;
+  height: 300PX;
+}
+
+P{
+  font-family: 'Share Tech Mono', monospace;
+  color: #FFFFFF;
+}
