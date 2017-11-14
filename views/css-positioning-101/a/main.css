@@ -1,19 +1,20 @@
 #box_1 {
-	position: static;
-  width: 200px;
-	height: 200px;
 	background: #ee3e64;
-}
-#box_2 {
-	position: static;
-	width: 200px;
 	height: 200px;
+  width: 200px;
+	position: static;
+}
+
+#box_2 {
 	background: #44accf;
-  }
+	height: 200px;
+	width: 200px;
+	position: static;
+}
 
 #box_3 {
-	position: static;
-	width: 200px;
-	height: 200px;
 	background: #b7d84b;
+	height: 200px;
+	width: 200px;
+	position: static;
 }
