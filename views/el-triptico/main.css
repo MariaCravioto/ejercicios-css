@@ -1,63 +1,62 @@
+a.mono{
+    bottom: 1180px;
+    left: 25px;
+    position: relative;
+  }
+
+  a.monopo{
+    bottom: 1180px;
+    left: 500px;
+    position: relative;
+}
+
 h4{
   background-color: #FFD700;
   border: 1px solid #000000;
   padding: 10px;
 }
 
-span.antes{
+span.ahora{
+  background-color: #FFFFFF;
+  border: 1px solid #000000;
+  bottom: 692px;
+  color: #000000;
   display: inline-block;
+  height: 600px;
+  left: 880px;
   position: relative;
+  width: 450px;
+}
+
+span.antes{
+  background-color: #FFFFFF;
+  border: 1px solid #000000;
   bottom: 90px;
   color: #000000;
-  background-color: #FFFFFF;
-  border: 1px solid #000000;
-  width: 450px;
+  display: inline-block;
   height: 600px;
+  position: relative;
+  width: 450px;
 }
-
 
 span.monopoly{
-  display: inline-block;
-  position: relative;
+  background-color: #FFFFFF;
+  border: 1px solid #000000;
   bottom: 20px;
-  left: -5px;
   color: #000000;
-  background-color: #FFFFFF;
-  border: 1px solid #000000;
-  width: 450px;
-  height: 600px;
-}
-
-span.ahora{
   display: inline-block;
-  position: relative;
-  bottom: 692px;
-  left: 880px;
-  color: #000000;
-  background-color: #FFFFFF;
-  border: 1px solid #000000;
-  width: 450px;
   height: 600px;
+  left: -5px;
+  position: relative;
+  width: 450px;
 }
 
 #pie{
+  background-color: #FFD700;
+  bottom: 710px;
+  border: 1px solid #000000;
   color: #000000;
+  padding: 5px;
   position:relative;
   width: auto;
-  bottom: 710px;
-  background-color: #FFD700;
-  border: 1px solid #000000;
-  padding: 5px;
   }
-
-  a.mono{
-    position: relative;
-    bottom: 1180px;
-    left: 25px;
-}
-
-  a.monopo{
-    position: relative;
-    bottom: 1180px;
-    left: 500px;
-}
